@@ -1,0 +1,9 @@
+Device Features: 
+1) GPS
+2) Heart Rate Monitor
+3) Timer
+4) Pedometer
+5) Blood pressure Monitor
+6) Bluetooth or Wifi
+7) 4g LTE
+ 
